@@ -2,4 +2,4 @@
 
 ## cordingGirl
 
-![cordgirl.png](../imag/cordgirl.png)
+![cordgirl.png](/imag/cordgirl.png)
